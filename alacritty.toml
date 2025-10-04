@@ -1,0 +1,18 @@
+[font]
+size = 14.0
+
+[font.bold]
+family = "Iosevka Fixed Curly Slab"
+style = "Bold"
+
+[font.bold_italic]
+family = "Iosevka Fixed Curly Slab"
+style = "Bold Italic"
+
+[font.italic]
+family = "Iosevka Fixed Curly Slab"
+style = "Italic"
+
+[font.normal]
+family = "Iosevka Fixed Curly Slab"
+style = "Regular"
